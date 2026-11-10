@@ -162,6 +162,9 @@ I'm continuously improving my technical knowledge and working towards becoming a
   <a href="https://www.instagram.com/code.withpankaj/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/kamal-pankaj-24b8121aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
