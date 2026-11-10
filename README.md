@@ -135,24 +135,6 @@ I'm continuously improving my technical knowledge and working towards becoming a
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kamalpankaj01&show_icons=true&theme=dark&hide_border=true&title_color=F28C28&icon_color=F28C28&rank_icon=github"
-    height="165"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalpankaj01&layout=compact&theme=dark&hide_border=true&title_color=F28C28"
-    height="165"
-    alt="Top Programming Languages"
-  />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
